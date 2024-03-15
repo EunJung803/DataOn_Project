@@ -1,7 +1,16 @@
 # 2023 Dataon 연구데이터 분석활용 프로젝트
 
-## Notion 자료
-[📚 모델 개발 매뉴얼](https://www.notion.so/eluuo/2a48996c30ce4dfabc06e49f220b84cc?pvs=4)
+## 관련 자료
+[📚 모델 개발 매뉴얼 🧷](https://www.notion.so/eluuo/2a48996c30ce4dfabc06e49f220b84cc?pvs=4)
+
+### 모델 개발 환경
+
+- [Dataon Canvas](https://dataon.kisti.re.kr/main.do) 서버 환경 
+    - 서버 옵션 : Super-1pod-GPU
+    전체 : 6 core, 16G memory, 1 GPU (JupyterLab: 6 core, 16G memory, 1 GPU / 계산자원: (0 core, 0G memory, 0 GPU) * 0)
+    - 도커 이미지 옵션 : [base] notebook-pytorch pytorch1.10.1-gpu, ubuntu 환경
+    - SW 정보 : pytorch 1.10.1 / python 3.8.12 / gcc 7.5.0 / miniconda 4.10.3 / tini 0.18.0 / jupyterlab 3.2.4 / R 4.1.3
+    - 추가 SW 정보 : keras 2.13.1 / numpy 1.23.3 / pandas 2.0.3 / gluonnlp 0.10.0 / transformers 4.8.1 / tensorflow 2.13.1 / scikit-learn 1.3.1 / tqdm 4.64.1
 
 ## 팀 정보
 팀장 | 최다연
