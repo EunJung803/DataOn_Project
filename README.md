@@ -1,4 +1,4 @@
-# 2023 Dataon 연구데이터 분석활용 경진대회(DATA/AI 분석경진대회) 프로젝트
+# 2023 Dataon 연구데이터 분석활용 프로젝트
 
 ## Notion 자료
 [📚 모델 개발 매뉴얼](https://www.notion.so/eluuo/2a48996c30ce4dfabc06e49f220b84cc?pvs=4)
